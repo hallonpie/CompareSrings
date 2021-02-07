@@ -1,2 +1,3 @@
 # CompareSrings
-Nice to have tool to quickly compare hash values
+  *Nice to have tool for quickly compareing two hash values.
+  *Simple and easy to use.
