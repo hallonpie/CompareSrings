@@ -1,3 +1,5 @@
+package CompareSrings;
+
 import java.util.Scanner;
 
 public class CompareStrings {
